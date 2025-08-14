@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suits on Zoho Suites</title>
+    <link>//localhost:1313/suits/</link>
+    <description>Recent content in Suits on Zoho Suites</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/suits/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analytics</title>
+      <link>//localhost:1313/suits/analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits/analytics/</guid>
+      <description>&lt;h1 id=&#34;analytics&#34;&gt;Analytics&lt;/h1&gt;&#xA;&lt;p&gt;Analytics is a customer relationship management (CRM) software that helps businesses manage their customer interactions and relationships.&lt;/p&gt;&#xA;&lt;p&gt;With powerful data connectors, data preparation, and AI-assisted analytics, you can bring data from multiple sources, blend it, and uncover trends through rich visualizations and sharing options.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Wide data connectors&lt;/strong&gt;: Import data from files, databases, cloud apps, and custom APIs to create a unified view.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data preparation&lt;/strong&gt;: Cleanse, transform, and blend datasets using a visual, no-code interface.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Interactive dashboards&lt;/strong&gt;: Build and share drill-down dashboards with filters, widgets, and embedded analytics.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;AI insights (Zia)&lt;/strong&gt;: Ask questions in natural language and get instant reports and explanations.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Collaboration and sharing&lt;/strong&gt;: Schedule reports, share securely with teams, and control access with granular permissions.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

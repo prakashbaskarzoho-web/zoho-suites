@@ -1,0 +1,9 @@
+<nav>
+    <a href="/"><img src="{{"images/Zoho-logo.png" | absURL}}" alt="Zoho Logo" width="150px"></a>
+    <div>
+        {{ range .Site.Menus.main }}
+            <a href="{{ .URL }}">{{ .Name }}</a>
+        {{ end }}
+    </div>
+</nav>
+<hr>

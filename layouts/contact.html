@@ -1,0 +1,25 @@
+{{ define "main"}}
+  <div class="hero">
+    <div class="hero-content">
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.description }}<p>{{ . }}</p>{{ end }}
+    </div>
+    {{ with .Params.image }}
+      <img src="{{ . | absURL }}" alt="{{ $.Title }}" width="300px">
+    {{ end }}
+  </div>
+
+  <div class="suits">
+    <article class="content">
+      {{ .Content }}
+
+      <hr>
+      <h2>Get in touch</h2>
+      <p>You can reach us at:</p>
+      <ul>
+        <li><strong>Email</strong>: contact@example.com</li>
+        <li><strong>Phone</strong>: +1 (555) 123-4567</li>
+      </ul>
+    </article>
+  </div>
+{{end}}

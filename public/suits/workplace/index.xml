@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workplace on Zoho Suites</title>
+    <link>//localhost:1313/suits/workplace/</link>
+    <description>Recent content in Workplace on Zoho Suites</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/suits/workplace/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workdrive</title>
+      <link>//localhost:1313/suits/workplace/workdrive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits/workplace/workdrive/</guid>
+      <description>&lt;h1 id=&#34;workdrive&#34;&gt;WorkDrive&lt;/h1&gt;&#xA;&lt;p&gt;Zoho WorkDrive is a secure team file management platform to store, share, and collaborate on documents, spreadsheets, and presentations.&lt;/p&gt;&#xA;&lt;p&gt;Organize content with Team Folders, govern access with granular permissions, and track activity with detailed insights.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Team Folders&lt;/strong&gt;: Structure content by department or project with access controls.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Secure sharing&lt;/strong&gt;: Public links with passwords, expiry, and download restrictions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Office suite collaboration&lt;/strong&gt;: Work together in Writer, Sheet, and Show in real time.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;External collaboration&lt;/strong&gt;: Share files with clients while retaining data controls.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Admin console and insights&lt;/strong&gt;: Audit trails, storage metrics, and device management.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Mail</title>
+      <link>//localhost:1313/suits/workplace/mail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits/workplace/mail/</guid>
+      <description>&lt;h1 id=&#34;mail&#34;&gt;Mail&lt;/h1&gt;&#xA;&lt;p&gt;Zoho Mail is a secure, ad-free email suite for businesses with custom domains, advanced admin controls, and integrated calendar, contacts, and tasks.&lt;/p&gt;&#xA;&lt;p&gt;Collaborate with Streams, share drafts, and manage conversations efficiently with clean, modern apps across devices.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Custom domain email&lt;/strong&gt;: Professional mailboxes with aliases and group addresses.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Built-in productivity&lt;/strong&gt;: Calendar, contacts, tasks, and notes tightly integrated.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Streams collaboration&lt;/strong&gt;: Comment, tag, and share emails without forwards.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Security and admin&lt;/strong&gt;: Spam protection, encryption, and detailed policies.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cross-platform apps&lt;/strong&gt;: Web, mobile, and desktop access with consistent UX.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Meeting</title>
+      <link>//localhost:1313/suits/workplace/meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits/workplace/meeting/</guid>
+      <description>&lt;h1 id=&#34;meeting&#34;&gt;Meeting&lt;/h1&gt;&#xA;&lt;p&gt;Zoho Meeting is secure online meeting and webinar software for scheduling, hosting, and recording sessions with teams and customers.&lt;/p&gt;&#xA;&lt;p&gt;Share screens, manage participants with moderator controls, and engage audiences with polls, Q&amp;amp;A, and registrations.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;HD meetings and webinars&lt;/strong&gt;: Host secure meetings with no downloads for attendees.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Screen sharing and recording&lt;/strong&gt;: Present and record sessions to share later.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Moderator controls&lt;/strong&gt;: Lock meetings, mute participants, and manage permissions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Engagement tools&lt;/strong&gt;: Polls, Q&amp;amp;A, hand raise, and registration workflows.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt;: Connect with Zoho apps and calendars for smooth scheduling.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

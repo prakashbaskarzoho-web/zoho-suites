@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zoho Suites</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Zoho Suites</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books</title>
+      <link>//localhost:1313/suits/finance-plus/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits/finance-plus/books/</guid>
+      <description>&lt;h1 id=&#34;books&#34;&gt;Books&lt;/h1&gt;&#xA;&lt;p&gt;Zoho Books is online accounting software to manage invoicing, expenses, banking, inventory, and financial reporting—helping businesses stay compliant and cash-flow positive.&lt;/p&gt;&#xA;&lt;p&gt;Stay on top of receivables and payables, automate routine accounting, and collaborate with your accountant securely in the cloud.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Professional invoicing&lt;/strong&gt;: Create branded invoices, automate reminders, and accept online payments.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Expenses and bills&lt;/strong&gt;: Capture expenses, manage vendor bills, and track reimbursements.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Banking and reconciliation&lt;/strong&gt;: Connect bank feeds and reconcile transactions quickly.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Inventory tracking&lt;/strong&gt;: Manage items, stock levels, and price lists.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tax compliance and reports&lt;/strong&gt;: Generate GST/VAT-ready returns and financial statements.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Client portal&lt;/strong&gt;: Share quotes, invoices, and get paid faster with a self-service portal.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>CRM</title>
+      <link>//localhost:1313/suits/crm-plus/crm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits/crm-plus/crm/</guid>
+      <description>&lt;h1 id=&#34;crm&#34;&gt;CRM&lt;/h1&gt;&#xA;&lt;p&gt;Zoho CRM Plus is a unified customer experience platform that helps you manage leads, deals, support, marketing, and analytics across the customer lifecycle—all in one place.&lt;/p&gt;&#xA;&lt;p&gt;Streamline processes with automation, gain visibility with dashboards, and deliver personalized experiences across channels.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Lead and deal management&lt;/strong&gt;: Capture, qualify, and track deals with customizable pipelines.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Omnichannel engagement&lt;/strong&gt;: Connect via email, phone, chat, social, and portals from a single console.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Automation and workflows&lt;/strong&gt;: Build workflows, assignment rules, and blueprints to reduce manual work.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Analytics and dashboards&lt;/strong&gt;: Monitor KPIs with prebuilt and custom reports and dashboards.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ecosystem integrations&lt;/strong&gt;: Connect with Zoho apps and third-party services to extend capabilities.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Workdrive</title>
+      <link>//localhost:1313/suits/workplace/workdrive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits/workplace/workdrive/</guid>
+      <description>&lt;h1 id=&#34;workdrive&#34;&gt;WorkDrive&lt;/h1&gt;&#xA;&lt;p&gt;Zoho WorkDrive is a secure team file management platform to store, share, and collaborate on documents, spreadsheets, and presentations.&lt;/p&gt;&#xA;&lt;p&gt;Organize content with Team Folders, govern access with granular permissions, and track activity with detailed insights.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Team Folders&lt;/strong&gt;: Structure content by department or project with access controls.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Secure sharing&lt;/strong&gt;: Public links with passwords, expiry, and download restrictions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Office suite collaboration&lt;/strong&gt;: Work together in Writer, Sheet, and Show in real time.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;External collaboration&lt;/strong&gt;: Share files with clients while retaining data controls.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Admin console and insights&lt;/strong&gt;: Audit trails, storage metrics, and device management.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Checkout</title>
+      <link>//localhost:1313/suits/finance-plus/checkout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits/finance-plus/checkout/</guid>
+      <description>&lt;h1 id=&#34;checkout&#34;&gt;Checkout&lt;/h1&gt;&#xA;&lt;p&gt;Zoho Checkout lets you create beautiful, hosted payment pages for one-time or recurring payments without writing code—perfect for subscriptions, donations, and product sales.&lt;/p&gt;&#xA;&lt;p&gt;Customize pages to match your brand, embed them in your site, and connect popular payment gateways to start collecting payments in minutes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hosted payment pages&lt;/strong&gt;: Launch secure, customizable pages quickly.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;One-time and recurring&lt;/strong&gt;: Support subscriptions, add-ons, and trials.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Multiple gateways&lt;/strong&gt;: Connect Stripe, Razorpay, and more based on region.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Coupons and discounts&lt;/strong&gt;: Run promotions with configurable coupon rules.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Analytics and webhooks&lt;/strong&gt;: Track conversions and automate downstream workflows.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Cliq</title>
+      <link>//localhost:1313/suits/crm-plus/cliq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits/crm-plus/cliq/</guid>
+      <description>&lt;h1 id=&#34;cliq&#34;&gt;Cliq&lt;/h1&gt;&#xA;&lt;p&gt;Cliq is an all-in-one digital workplace that combines chat, video conferencing, file sharing, and management tools to help teams collaborate and work together more efficiently.&lt;/p&gt;&#xA;&lt;p&gt;With Cliq, you can create channels for different projects, topics or teams, and invite team members to join. You can share files, make video or audio calls, and send messages to team members. Cliq also has a built-in task manager that allows you to assign tasks to team members and track progress.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mail</title>
+      <link>//localhost:1313/suits/workplace/mail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits/workplace/mail/</guid>
+      <description>&lt;h1 id=&#34;mail&#34;&gt;Mail&lt;/h1&gt;&#xA;&lt;p&gt;Zoho Mail is a secure, ad-free email suite for businesses with custom domains, advanced admin controls, and integrated calendar, contacts, and tasks.&lt;/p&gt;&#xA;&lt;p&gt;Collaborate with Streams, share drafts, and manage conversations efficiently with clean, modern apps across devices.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Custom domain email&lt;/strong&gt;: Professional mailboxes with aliases and group addresses.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Built-in productivity&lt;/strong&gt;: Calendar, contacts, tasks, and notes tightly integrated.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Streams collaboration&lt;/strong&gt;: Comment, tag, and share emails without forwards.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Security and admin&lt;/strong&gt;: Spam protection, encryption, and detailed policies.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cross-platform apps&lt;/strong&gt;: Web, mobile, and desktop access with consistent UX.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Meeting</title>
+      <link>//localhost:1313/suits/workplace/meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits/workplace/meeting/</guid>
+      <description>&lt;h1 id=&#34;meeting&#34;&gt;Meeting&lt;/h1&gt;&#xA;&lt;p&gt;Zoho Meeting is secure online meeting and webinar software for scheduling, hosting, and recording sessions with teams and customers.&lt;/p&gt;&#xA;&lt;p&gt;Share screens, manage participants with moderator controls, and engage audiences with polls, Q&amp;amp;A, and registrations.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;HD meetings and webinars&lt;/strong&gt;: Host secure meetings with no downloads for attendees.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Screen sharing and recording&lt;/strong&gt;: Present and record sessions to share later.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Moderator controls&lt;/strong&gt;: Lock meetings, mute participants, and manage permissions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Engagement tools&lt;/strong&gt;: Polls, Q&amp;amp;A, hand raise, and registration workflows.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt;: Connect with Zoho apps and calendars for smooth scheduling.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Payroll</title>
+      <link>//localhost:1313/suits/finance-plus/payroll/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits/finance-plus/payroll/</guid>
+      <description>&lt;h1 id=&#34;payroll&#34;&gt;Payroll&lt;/h1&gt;&#xA;&lt;p&gt;Zoho Payroll automates salary calculations, tax deductions, and payslips so you can run payroll accurately and on time every month.&lt;/p&gt;&#xA;&lt;p&gt;Stay compliant with local statutory rules, manage reimbursements, bonuses, and maintain secure employee records.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Automated payroll runs&lt;/strong&gt;: Configure earnings, deductions, and payroll schedules.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Statutory compliance&lt;/strong&gt;: Handle taxes, PF/ESI, and form filings as applicable.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Direct deposit and payslips&lt;/strong&gt;: Pay employees and share digital payslips securely.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Leave and attendance&lt;/strong&gt;: Integrate time off and attendance for accurate payroll.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Employee self-service&lt;/strong&gt;: Let employees view payslips, submit proofs, and update info.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>//localhost:1313/suits/crm-plus/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits/crm-plus/projects/</guid>
+      <description>&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;&#xA;&lt;p&gt;Zoho Projects is an end-to-end project management solution to plan, track, and deliver work on time. Organize tasks, collaborate with teams, and visualize progress with powerful charts and reports.&lt;/p&gt;&#xA;&lt;p&gt;Keep stakeholders aligned with shared timelines, automate routine work, and monitor workload to optimize team capacity.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Task and subtask management&lt;/strong&gt;: Break down work, set priorities, and track progress with Kanban and list views.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Gantt charts and timelines&lt;/strong&gt;: Visualize schedules, dependencies, and critical paths to avoid delays.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Time tracking&lt;/strong&gt;: Log billable/non-billable hours and generate timesheets for invoicing.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Issue tracking&lt;/strong&gt;: Capture, assign, and resolve bugs or risks with SLAs and custom fields.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Automation and integrations&lt;/strong&gt;: Set up blueprints, reminders, and connect with Zoho and third-party apps.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Analytics</title>
+      <link>//localhost:1313/suits/analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits/analytics/</guid>
+      <description>&lt;h1 id=&#34;analytics&#34;&gt;Analytics&lt;/h1&gt;&#xA;&lt;p&gt;Analytics is a customer relationship management (CRM) software that helps businesses manage their customer interactions and relationships.&lt;/p&gt;&#xA;&lt;p&gt;With powerful data connectors, data preparation, and AI-assisted analytics, you can bring data from multiple sources, blend it, and uncover trends through rich visualizations and sharing options.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Wide data connectors&lt;/strong&gt;: Import data from files, databases, cloud apps, and custom APIs to create a unified view.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data preparation&lt;/strong&gt;: Cleanse, transform, and blend datasets using a visual, no-code interface.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Interactive dashboards&lt;/strong&gt;: Build and share drill-down dashboards with filters, widgets, and embedded analytics.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;AI insights (Zia)&lt;/strong&gt;: Ask questions in natural language and get instant reports and explanations.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Collaboration and sharing&lt;/strong&gt;: Schedule reports, share securely with teams, and control access with granular permissions.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;who-we-are&#34;&gt;Who we are&lt;/h2&gt;&#xA;&lt;p&gt;We build tailored Zoho suite implementations that streamline your sales, finance, and workplace operations.&lt;/p&gt;&#xA;&lt;h3 id=&#34;our-approach&#34;&gt;Our approach&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Discovery and onboarding&lt;/li&gt;&#xA;&lt;li&gt;Best-practice configuration&lt;/li&gt;&#xA;&lt;li&gt;Data migration and training&lt;/li&gt;&#xA;&lt;li&gt;Ongoing support&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;what-youll-find-here&#34;&gt;What you&amp;rsquo;ll find here&lt;/h3&gt;&#xA;&lt;p&gt;Learn about our services, case studies, and the tools we use.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Assistant Manager</title>
+      <link>//localhost:1313/suits-testimonials/analytics/vignesh-testimonial3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/analytics/vignesh-testimonial3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Assistant Manager</title>
+      <link>//localhost:1313/suits-testimonials/books/vignesh-testimonial3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/books/vignesh-testimonial3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Assistant Manager</title>
+      <link>//localhost:1313/suits-testimonials/checkout/vignesh-testimonial3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/checkout/vignesh-testimonial3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Assistant Manager</title>
+      <link>//localhost:1313/suits-testimonials/cliq/vignesh-testimonial3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/cliq/vignesh-testimonial3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Assistant Manager</title>
+      <link>//localhost:1313/suits-testimonials/crm/vignesh-testimonial3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/crm/vignesh-testimonial3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Assistant Manager</title>
+      <link>//localhost:1313/suits-testimonials/mail/vignesh-testimonial3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/mail/vignesh-testimonial3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Assistant Manager</title>
+      <link>//localhost:1313/suits-testimonials/meeting/vignesh-testimonial3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/meeting/vignesh-testimonial3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Assistant Manager</title>
+      <link>//localhost:1313/suits-testimonials/payroll/vignesh-testimonial3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/payroll/vignesh-testimonial3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Assistant Manager</title>
+      <link>//localhost:1313/suits-testimonials/projects/vignesh-testimonial3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/projects/vignesh-testimonial3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Assistant Manager</title>
+      <link>//localhost:1313/suits-testimonials/workdrive/vignesh-testimonial3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/workdrive/vignesh-testimonial3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CEO</title>
+      <link>//localhost:1313/suits-testimonials/analytics/manoj-kumar-testimonial2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/analytics/manoj-kumar-testimonial2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CEO</title>
+      <link>//localhost:1313/suits-testimonials/books/manoj-kumar-testimonial2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/books/manoj-kumar-testimonial2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CEO</title>
+      <link>//localhost:1313/suits-testimonials/checkout/manoj-kumar-testimonial2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/checkout/manoj-kumar-testimonial2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CEO</title>
+      <link>//localhost:1313/suits-testimonials/cliq/manoj-kumar-testimonial2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/cliq/manoj-kumar-testimonial2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CEO</title>
+      <link>//localhost:1313/suits-testimonials/crm/manoj-kumar-testimonial2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/crm/manoj-kumar-testimonial2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CEO</title>
+      <link>//localhost:1313/suits-testimonials/mail/manoj-kumar-testimonial2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/mail/manoj-kumar-testimonial2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CEO</title>
+      <link>//localhost:1313/suits-testimonials/meeting/manoj-kumar-testimonial2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/meeting/manoj-kumar-testimonial2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CEO</title>
+      <link>//localhost:1313/suits-testimonials/payroll/manoj-kumar-testimonial2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/payroll/manoj-kumar-testimonial2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CEO</title>
+      <link>//localhost:1313/suits-testimonials/projects/manoj-kumar-testimonial2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/projects/manoj-kumar-testimonial2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CEO</title>
+      <link>//localhost:1313/suits-testimonials/workdrive/manoj-kumar-testimonial2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/workdrive/manoj-kumar-testimonial2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/contact/</guid>
+      <description>&lt;h2 id=&#34;lets-talk&#34;&gt;Let&amp;rsquo;s talk&lt;/h2&gt;&#xA;&lt;p&gt;Have a question about Zoho implementations or need support? Send us a message and we&amp;rsquo;ll get back to you shortly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sales Manager</title>
+      <link>//localhost:1313/suits-testimonials/analytics/karthick-testimonial1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/analytics/karthick-testimonial1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sales Manager</title>
+      <link>//localhost:1313/suits-testimonials/books/karthick-testimonial1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/books/karthick-testimonial1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sales Manager</title>
+      <link>//localhost:1313/suits-testimonials/checkout/karthick-testimonial1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/checkout/karthick-testimonial1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sales Manager</title>
+      <link>//localhost:1313/suits-testimonials/cliq/karthick-testimonial1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/cliq/karthick-testimonial1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sales Manager</title>
+      <link>//localhost:1313/suits-testimonials/mail/karthick-testimonial1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/mail/karthick-testimonial1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sales Manager</title>
+      <link>//localhost:1313/suits-testimonials/meeting/karthick-testimonial1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/meeting/karthick-testimonial1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sales Manager</title>
+      <link>//localhost:1313/suits-testimonials/payroll/karthick-testimonial1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/payroll/karthick-testimonial1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sales Manager</title>
+      <link>//localhost:1313/suits-testimonials/projects/karthick-testimonial1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/projects/karthick-testimonial1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sales Manager</title>
+      <link>//localhost:1313/suits-testimonials/workdrive/karthick-testimonial1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/workdrive/karthick-testimonial1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sales Manager, HorizonTech Solutions</title>
+      <link>//localhost:1313/suits-testimonials/crm/karthick-testimonial1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits-testimonials/crm/karthick-testimonial1/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

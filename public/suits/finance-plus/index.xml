@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finance Plus on Zoho Suites</title>
+    <link>//localhost:1313/suits/finance-plus/</link>
+    <description>Recent content in Finance Plus on Zoho Suites</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/suits/finance-plus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books</title>
+      <link>//localhost:1313/suits/finance-plus/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits/finance-plus/books/</guid>
+      <description>&lt;h1 id=&#34;books&#34;&gt;Books&lt;/h1&gt;&#xA;&lt;p&gt;Zoho Books is online accounting software to manage invoicing, expenses, banking, inventory, and financial reporting—helping businesses stay compliant and cash-flow positive.&lt;/p&gt;&#xA;&lt;p&gt;Stay on top of receivables and payables, automate routine accounting, and collaborate with your accountant securely in the cloud.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Professional invoicing&lt;/strong&gt;: Create branded invoices, automate reminders, and accept online payments.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Expenses and bills&lt;/strong&gt;: Capture expenses, manage vendor bills, and track reimbursements.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Banking and reconciliation&lt;/strong&gt;: Connect bank feeds and reconcile transactions quickly.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Inventory tracking&lt;/strong&gt;: Manage items, stock levels, and price lists.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tax compliance and reports&lt;/strong&gt;: Generate GST/VAT-ready returns and financial statements.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Client portal&lt;/strong&gt;: Share quotes, invoices, and get paid faster with a self-service portal.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Checkout</title>
+      <link>//localhost:1313/suits/finance-plus/checkout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits/finance-plus/checkout/</guid>
+      <description>&lt;h1 id=&#34;checkout&#34;&gt;Checkout&lt;/h1&gt;&#xA;&lt;p&gt;Zoho Checkout lets you create beautiful, hosted payment pages for one-time or recurring payments without writing code—perfect for subscriptions, donations, and product sales.&lt;/p&gt;&#xA;&lt;p&gt;Customize pages to match your brand, embed them in your site, and connect popular payment gateways to start collecting payments in minutes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hosted payment pages&lt;/strong&gt;: Launch secure, customizable pages quickly.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;One-time and recurring&lt;/strong&gt;: Support subscriptions, add-ons, and trials.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Multiple gateways&lt;/strong&gt;: Connect Stripe, Razorpay, and more based on region.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Coupons and discounts&lt;/strong&gt;: Run promotions with configurable coupon rules.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Analytics and webhooks&lt;/strong&gt;: Track conversions and automate downstream workflows.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Payroll</title>
+      <link>//localhost:1313/suits/finance-plus/payroll/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits/finance-plus/payroll/</guid>
+      <description>&lt;h1 id=&#34;payroll&#34;&gt;Payroll&lt;/h1&gt;&#xA;&lt;p&gt;Zoho Payroll automates salary calculations, tax deductions, and payslips so you can run payroll accurately and on time every month.&lt;/p&gt;&#xA;&lt;p&gt;Stay compliant with local statutory rules, manage reimbursements, bonuses, and maintain secure employee records.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Automated payroll runs&lt;/strong&gt;: Configure earnings, deductions, and payroll schedules.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Statutory compliance&lt;/strong&gt;: Handle taxes, PF/ESI, and form filings as applicable.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Direct deposit and payslips&lt;/strong&gt;: Pay employees and share digital payslips securely.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Leave and attendance&lt;/strong&gt;: Integrate time off and attendance for accurate payroll.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Employee self-service&lt;/strong&gt;: Let employees view payslips, submit proofs, and update info.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

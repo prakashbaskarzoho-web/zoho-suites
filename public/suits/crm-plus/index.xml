@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CRM Plus on Zoho Suites</title>
+    <link>//localhost:1313/suits/crm-plus/</link>
+    <description>Recent content in CRM Plus on Zoho Suites</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/suits/crm-plus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CRM</title>
+      <link>//localhost:1313/suits/crm-plus/crm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits/crm-plus/crm/</guid>
+      <description>&lt;h1 id=&#34;crm&#34;&gt;CRM&lt;/h1&gt;&#xA;&lt;p&gt;Zoho CRM Plus is a unified customer experience platform that helps you manage leads, deals, support, marketing, and analytics across the customer lifecycle—all in one place.&lt;/p&gt;&#xA;&lt;p&gt;Streamline processes with automation, gain visibility with dashboards, and deliver personalized experiences across channels.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Lead and deal management&lt;/strong&gt;: Capture, qualify, and track deals with customizable pipelines.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Omnichannel engagement&lt;/strong&gt;: Connect via email, phone, chat, social, and portals from a single console.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Automation and workflows&lt;/strong&gt;: Build workflows, assignment rules, and blueprints to reduce manual work.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Analytics and dashboards&lt;/strong&gt;: Monitor KPIs with prebuilt and custom reports and dashboards.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ecosystem integrations&lt;/strong&gt;: Connect with Zoho apps and third-party services to extend capabilities.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Cliq</title>
+      <link>//localhost:1313/suits/crm-plus/cliq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits/crm-plus/cliq/</guid>
+      <description>&lt;h1 id=&#34;cliq&#34;&gt;Cliq&lt;/h1&gt;&#xA;&lt;p&gt;Cliq is an all-in-one digital workplace that combines chat, video conferencing, file sharing, and management tools to help teams collaborate and work together more efficiently.&lt;/p&gt;&#xA;&lt;p&gt;With Cliq, you can create channels for different projects, topics or teams, and invite team members to join. You can share files, make video or audio calls, and send messages to team members. Cliq also has a built-in task manager that allows you to assign tasks to team members and track progress.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>//localhost:1313/suits/crm-plus/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/suits/crm-plus/projects/</guid>
+      <description>&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;&#xA;&lt;p&gt;Zoho Projects is an end-to-end project management solution to plan, track, and deliver work on time. Organize tasks, collaborate with teams, and visualize progress with powerful charts and reports.&lt;/p&gt;&#xA;&lt;p&gt;Keep stakeholders aligned with shared timelines, automate routine work, and monitor workload to optimize team capacity.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Task and subtask management&lt;/strong&gt;: Break down work, set priorities, and track progress with Kanban and list views.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Gantt charts and timelines&lt;/strong&gt;: Visualize schedules, dependencies, and critical paths to avoid delays.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Time tracking&lt;/strong&gt;: Log billable/non-billable hours and generate timesheets for invoicing.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Issue tracking&lt;/strong&gt;: Capture, assign, and resolve bugs or risks with SLAs and custom fields.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Automation and integrations&lt;/strong&gt;: Set up blueprints, reminders, and connect with Zoho and third-party apps.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
